@@ -16,3 +16,4 @@
         System.out.println(peakIndexInMountainArray(arr));
     }
 }
+// same solution for find peak element 
